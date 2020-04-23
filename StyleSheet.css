@@ -1,0 +1,23 @@
+
+div.big {
+	margin: 5% 20% 2%;
+}
+
+h1 {
+  display: block;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+h2 {
+  display: block;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+@media screen and (max-width: 820px) {
+	div.big {
+    	margin: 2% 10% 0%;
+  	}
+
+}
