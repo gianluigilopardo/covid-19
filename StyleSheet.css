@@ -4,13 +4,11 @@ div.big {
 }
 
 h1 {
-  display: block;
   font-size: 2em;
   font-weight: bold;
 }
 
 h2 {
-  display: block;
   font-size: 1.5em;
   font-weight: bolder;
 }
